@@ -363,6 +363,115 @@ SL NO TIME   EV SP
 
 ---
 
+## Development Environment
+
+### Software
+
+| Tool            | Purpose                   |
+| --------------- | ------------------------- |
+| MPLAB X IDE     | Project Development       |
+| XC8 Compiler    | Embedded C Compilation    |
+| PICSimLab       | Hardware Simulation       |
+| PICGenios Board | Virtual Development Board |
+
+### Target Platform
+
+```text
+PIC16F877A Microcontroller
+PICSimLab Simulator
+PICGenios Development Board
+```
+
+---
+
+## Hardware Platform
+
+This project was developed and tested using the **PICGenios Development Board** available in **PICSimLab**.
+
+The PICGenios board provides virtual peripherals required for the implementation:
+
+* PIC16F877A MCU
+* Character LCD (CLCD)
+* Matrix/Digital Keypad
+* Potentiometer (ADC Input)
+* UART Terminal
+* I2C EEPROM
+* DS1307 RTC
+* LEDs and Switches
+
+This environment enables complete firmware development and testing without physical hardware.
+
+---
+
+## Simulation Setup
+
+### Simulator
+
+```text
+PICSimLab
+```
+
+### Development Board
+
+```text
+PICGenios
+```
+
+### Microcontroller
+
+```text
+PIC16F877A
+```
+
+### Peripherals Used
+
+```text
+CLCD
+Digital Keypad
+ADC (Potentiometer)
+DS1307 RTC
+24C02 EEPROM
+UART Terminal
+Timer2
+```
+
+---
+
+## How to Run
+
+1. Build the project using MPLAB X IDE and XC8 Compiler.
+2. Generate the HEX file.
+3. Open PICSimLab.
+4. Select:
+
+```text
+Board : PICGenios
+MCU   : PIC16F877A
+```
+
+5. Load the generated HEX file.
+6. Run the simulation.
+7. Interact using keypad, LCD, UART, and ADC controls.
+
+---
+
+## Screenshots
+
+Add screenshots of:
+
+* Dashboard Screen
+* Login Screen
+* Main Menu
+* View Log Screen
+* UART Download Screen
+* PICSimLab PICGenios Board
+
+These screenshots significantly improve project presentation on GitHub.
+
+
+
+
+
 ## Concepts Demonstrated
 
 * Embedded C
