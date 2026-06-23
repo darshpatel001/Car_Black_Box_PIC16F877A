@@ -373,6 +373,7 @@ SL NO TIME   EV SP
 | XC8 Compiler    | Embedded C Compilation    |
 | PICSimLab       | Hardware Simulation       |
 | PICGenios Board | Virtual Development Board |
+| Cutecom         | Virtual UART to UART      |
 
 ### Target Platform
 
