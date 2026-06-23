@@ -120,7 +120,7 @@ This project simulates the functionality of an automotive black box used in mode
 ---
 ## Demo Video
 
-[Watch Demo Video](Screencast from 2026-06-23 09-55-39.mp4)
+[Watch Demo Video](./Screencast from 2026-06-23 09-55-39.mp4)
 
 
 ---
