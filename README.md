@@ -58,6 +58,9 @@ This project simulates the functionality of an automotive black box used in mode
 
 ```text
 .
+├── Demo Videos/
+|  ├── Video.mp4
+|
 ├── main.c
 ├── main.h
 ├── car_black_box_def.c
