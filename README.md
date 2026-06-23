@@ -118,11 +118,10 @@ This project simulates the functionality of an automotive black box used in mode
 ```
 
 ---
-## Demo Video
+## Demo
 
-[Watch Demo Video](./Screencast from 2026-06-23 09-55-39.mp4)
-
-
+🎥 Demo Video:
+[Screencast from 2026-06-23 09-55-39.mp4](./Screencast%20from%202026-06-23%2009-55-39.mp4)
 ---
 ## Working Principle
 
